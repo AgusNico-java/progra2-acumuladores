@@ -1,0 +1,30 @@
+
+g	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(‚λτ΅ώÿÿÿÿ8ΦΜΠςε1
+y
+java:S1659"WDeclare "numNoExisteFilaDeMultiplos" and all following declarations on a separate line.(ΝΨπ†ωÿÿÿÿ8°Λυοε1
+s
+java:S1659"VDeclare "matSinInterseccionPorFila" and all following declarations on a separate line.(Τ‘βΚ8΄Λυοε1
+|
+java:S1659"ZDeclare "columnaSumaMenosQueAlgunaFila" and all following declarations on a separate line.(ΒΏςψÿÿÿÿ8¶Λυοε1
+{
+java:S1659"YDeclare "matSinInterseccionPorColumna" and all following declarations on a separate line.(«Ò±›ωÿÿÿÿ8¶Λυοε1
+
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚λτ΅ώÿÿÿÿ8ιΜΠςε1
+j	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Κ¦Ν8ΎΛυοε1
+o	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(κΆ“»ϋÿÿÿÿ8ΑΛυοε1
+o	java:S100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(όϊΣέϋÿÿÿÿ8ΒΛυοε1
+o	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°®γυώÿÿÿÿ8ΓΛυοε1
+j	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(όƒΩΒ8ΔΛυοε1
+o	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΣΣΐÿÿÿÿÿ8ΕΛυοε1
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ι•³έ8ΗΛυοε1
+k	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βώμ–8ΘΛυοε1
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΛΏφ£όÿÿÿÿ8ΛΛυοε1
+k	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬έΥ 8ΞΛυοε1
+j	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύόΉU8ΟΛυοε1
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ή…Ύ»8ÒΛυοε1
+p	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«²§νϋÿÿÿÿ8ΤΛυοε1
+k	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒύ„8ΥΛυοε1
+j	java:S100΄"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(βγ†N8ΦΛυοε1
+k	java:S100Ί"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(εκΞ8ΨΛυοε1
+H
+java:S5960]"+Remove this assertion from production code.(ÿ„μ8‚™¤πε1
